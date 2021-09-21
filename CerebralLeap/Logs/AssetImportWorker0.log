@@ -334,3 +334,116 @@ Received Import Request.
 Start importing Assets/StarterAssets/Environment/Art/Materials/Built-in_RP/BuiltInTriplanar_01_Mat.mat using Guid(3300a5c4710bac244815734e484b3b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668c5f0b52180bd921c51964265957b2') in 0.568093 seconds 
   Import took 0.572347 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 305.210734 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials
+  artifactKey: Guid(86a33916cf3294ac7ab58f89c2aa40b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials using Guid(86a33916cf3294ac7ab58f89c2aa40b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4f8eee360b218b59a624f9e0513fc4') in 0.002309 seconds 
+  Import took 0.010408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.175812 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png
+  artifactKey: Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png using Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d047d03561b9fd36435b1b6ba1eabc') in 1.340058 seconds 
+  Import took 1.346638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004005 seconds.
+  path: Packages/com.unity.probuilder/Content/Material/Textures/GridBox_NoDraw.png
+  artifactKey: Guid(464ca14f3cfaf433582758afa13a9473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Material/Textures/GridBox_NoDraw.png using Guid(464ca14f3cfaf433582758afa13a9473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d20b3931e1cc1c54bfab5dc2972455') in 0.009668 seconds 
+  Import took 0.016658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.590497 seconds.
+  path: Packages/com.unity.probuilder/Content/Material/Textures/GridBox_Trigger.png
+  artifactKey: Guid(b3fd87e2e956e41b0b43f76bb50a4934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Material/Textures/GridBox_Trigger.png using Guid(b3fd87e2e956e41b0b43f76bb50a4934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536c4c521df5e2046e18f148618180c8') in 0.008106 seconds 
+  Import took 0.012753 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.972 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2973ms)
+		BeginReloadAssembly (419ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (205ms)
+		EndReloadAssembly (2339ms)
+			LoadAssemblies (342ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1106ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (124ms)
+			SetupLoadedEditorAssemblies (598ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (416ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.6 MB.
+System memory in use after: 218.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2772.
+Total: 4.254922 ms (FindLiveObjects: 0.245129 ms CreateObjectMapping: 0.083509 ms MarkObjects: 3.853685 ms  DeleteObjects: 0.071034 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 820.981205 seconds.
+  path: Assets/Materials/Platform_Island
+  artifactKey: Guid(8486c61219ed441b783cef2d444f607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform_Island using Guid(8486c61219ed441b783cef2d444f607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81926e46c149186b4341856f92bf3dd') in 0.010786 seconds 
+  Import took 0.019376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.793281 seconds.
+  path: Assets/Materials/Platform_Island/TexturesCom_Stone_BaseSurface1_1K_albedo.tif
+  artifactKey: Guid(b27043773cf584178bc7000ebf93d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform_Island/TexturesCom_Stone_BaseSurface1_1K_albedo.tif using Guid(b27043773cf584178bc7000ebf93d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229ea8d34765182cb20a71f614e4a8b8') in 0.039544 seconds 
+  Import took 0.043445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003429 seconds.
+  path: Assets/Materials/Platform_Island/TexturesCom_Stone_BaseSurface1_1K_albedo.tif
+  artifactKey: Guid(b27043773cf584178bc7000ebf93d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform_Island/TexturesCom_Stone_BaseSurface1_1K_albedo.tif using Guid(b27043773cf584178bc7000ebf93d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229ea8d34765182cb20a71f614e4a8b8') in 0.009419 seconds 
+  Import took 0.017572 seconds .
+
